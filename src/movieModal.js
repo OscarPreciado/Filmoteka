@@ -75,7 +75,6 @@ function getMovieData(movieID) {
             originalTitle.textContent = data.original_title;
             // genre.textContent = data.genres;
             const genreName = data.genres.map((genre) => genre.name).join(' | ');
-            // console.log(genreName);
             genre.textContent = genreName;
 
             about.textContent = data.overview;
