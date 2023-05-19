@@ -1,11 +1,11 @@
 {
-  "name": "anderson03AyA",
+  "name": "OscarPreciado",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/anderson03AyA/FilmotekaGrupo4/",
+  "homepage": "https://github.com/OscarPreciado/Filmoteka/",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /FilmotekaGrupo4/"
+    "build": "parcel build src/index.html --public-url /Filmoteka/"
   },
   "repository": {
     "type": "git",
